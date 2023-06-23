@@ -7,7 +7,7 @@ Open-source Contributions: I'm an open-source enthusiast and believe in the impo
 
 Technical Skills: While browsing through my repositories, you'll be able to identify the technical skills I possess. This includes programming languages, frameworks, libraries, and other relevant technologies.
 
-Feel free to explore the projects, clone repositories, and open issues if you have any questions or suggestions. You can reach out to me via email (insert your email) if you'd like to discuss collaboration opportunities or any other software development-related matters.
+Feel free to explore the projects, clone repositories, and open issues if you have any questions or suggestions. You can reach out to me via email contato@alencardesign.com.br if you'd like to discuss collaboration opportunities or any other software development-related matters.
 
 Thank you for visiting my GitHub profile, and I'm excited to share my work with you. Enjoy exploring!
 
